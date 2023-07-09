@@ -1,0 +1,26 @@
+[
+  {
+    "Country": "Uruguay",
+    "Winner": "Uruguay",
+    "Runners-Up": "Argentina",
+    "Third": "USA",
+    "Fourth": "Yugoslavia",
+    "GoalsScored": 70
+  },
+  {
+    "Country": "Italy",
+    "Winner": "Italy",
+    "Runners-Up": "Czechoslovakia",
+    "Third": "Germany",
+    "Fourth": "Austria",
+    "GoalsScored": 70
+  },
+  {
+    "Country": "France",
+    "Winner": "Italy",
+    "Runners-Up": "Hungary",
+    "Third": "Brazil",
+    "Fourth": "Sweden",
+    "GoalsScored": 84
+  }
+]
